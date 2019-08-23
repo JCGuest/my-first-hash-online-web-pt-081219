@@ -6,6 +6,8 @@ your_hash = {"key" => "value", "ikey" => "ivalue"}
   
 end
 
+def shippin_manifest
+
 
 def shipping_manifest
   # set a variable called `the_manifest`, equal to a hash
